@@ -1,4 +1,5 @@
-### Hi there 👋
+# This is a supplementary repository for the paper "Python 3 Types in the Wild: A Tale of Two Type Systems", accepted at ACM SIGPLAN Dynamic Languages Symposium (DLS 2020)
+
 
 <!--
 **Py3TypeInTheWildDLS20/Py3TypeInTheWildDLS20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
